@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39516
     wikipedia: http://en.wikipedia.org/wiki/John_Ambrose_Fleming
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38526#Hertzian-Wave-Wireless-Telegraphy
 gutenberg_issued: '2012-01-08'
 gutenberg_type: Text
 identifiers:
